@@ -1,0 +1,15 @@
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/bin/Debug/net7.0/Ticket
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/bin/Debug/net7.0/Ticket.deps.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/bin/Debug/net7.0/Ticket.runtimeconfig.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/bin/Debug/net7.0/Ticket.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/bin/Debug/net7.0/Ticket.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.csproj.AssemblyReference.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.AssemblyInfoInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.AssemblyInfo.cs
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.csproj.CoreCompileInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/refint/Ticket.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/Ticket.genruntimeconfig.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Ticket/obj/Debug/net7.0/ref/Ticket.dll

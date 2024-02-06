@@ -1,0 +1,15 @@
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/bin/Debug/net7.0/Encapsulation
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/bin/Debug/net7.0/Encapsulation.deps.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/bin/Debug/net7.0/Encapsulation.runtimeconfig.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/bin/Debug/net7.0/Encapsulation.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/bin/Debug/net7.0/Encapsulation.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.csproj.AssemblyReference.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.AssemblyInfoInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.AssemblyInfo.cs
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.csproj.CoreCompileInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/refint/Encapsulation.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/Encapsulation.genruntimeconfig.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Encapsulation/obj/Debug/net7.0/ref/Encapsulation.dll

@@ -1,0 +1,45 @@
+﻿using System;
+namespace Inheritance
+{
+    public class Barang
+    {
+        public string nama { get; set; }
+        public int harga { get; set; }
+        public Barang()
+        {
+            nama = "-";
+            harga = 0;
+        }
+        public Barang(string nama, int harga)
+        {
+            this.nama = nama;
+            this.harga = harga;
+        }
+        public void infoBarang()
+        {
+            Console.WriteLine("{0}      {1}", nama, harga);
+        }
+    }
+    public class Buah:Barang
+    {
+        public int stok { get; set; }
+        public int expired { get; set; }
+        public Buah()
+        {
+            nama = "-";
+            harga = 0;
+        }
+        public Buah(string nama, int harga)
+        {
+            this.nama = nama;
+            this.harga = harga;
+        }
+        public void infoBarang(int stok, int exp)
+        {
+            this.stok = stok;
+            this.expired = exp;
+            Console.WriteLine("{0}      {1}", this.stok, this.expired);
+        }
+    }
+}
+

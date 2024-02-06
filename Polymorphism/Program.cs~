@@ -1,0 +1,33 @@
+﻿using System;
+namespace Polymorphism
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Car sportCar;
+
+            Console.WriteLine("Select a car :");
+            Console.WriteLine("[1] Tesla");
+            Console.WriteLine("[2] Mazda");
+            Console.WriteLine("[3] BMW");
+            Console.Write("Number car [1..3]: ");
+            int numCar = Convert.ToInt32(Console.ReadLine());
+
+            if (numCar == 1)
+                sportCar = new Tesla();
+            else if (numCar == 2)
+                sportCar = new Mazda();
+            else if (numCar == 3)
+                sportCar = new BMW();
+            else
+                sportCar = new Car();
+
+            Console.WriteLine();
+            sportCar.Data();
+            sportCar.Speed();
+
+            Console.ReadKey();
+        }
+    }
+}

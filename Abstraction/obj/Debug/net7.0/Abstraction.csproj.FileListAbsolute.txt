@@ -1,0 +1,15 @@
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/bin/Debug/net7.0/Abstraction
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/bin/Debug/net7.0/Abstraction.deps.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/bin/Debug/net7.0/Abstraction.runtimeconfig.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/bin/Debug/net7.0/Abstraction.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/bin/Debug/net7.0/Abstraction.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.csproj.AssemblyReference.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.AssemblyInfoInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.AssemblyInfo.cs
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.csproj.CoreCompileInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/refint/Abstraction.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/Abstraction.genruntimeconfig.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Abstraction/obj/Debug/net7.0/ref/Abstraction.dll

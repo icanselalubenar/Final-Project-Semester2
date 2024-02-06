@@ -1,0 +1,15 @@
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/icanalwaystrue/Documents/Amikom/UAS/Pemrograman/UAS-SMT2/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

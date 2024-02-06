@@ -1,0 +1,42 @@
+﻿using System;
+namespace Encapsulation
+{
+    internal class Buah
+    {
+        public static int jmlBuah = 0;
+        public string nama;
+        public int stok;
+        public int harga;
+
+        public Buah(string nama, int stok, int harga)
+        {
+            this.nama = nama;
+            this.stok = stok;
+            this.harga = harga;
+            jmlBuah++;
+        }
+
+        public static int totalBuah
+        {
+            get { return jmlBuah; }
+            set { jmlBuah = value; }
+        }
+        public string namaBuah
+        {
+            get { return nama;  }
+            set { nama = value; }
+        }
+        public int stokBuah
+        {
+            get { return stok;  }
+            set { stok = value; }
+        }
+        public int hargaBuah
+        {
+            get { return harga;  }
+            set { harga = value; }
+        }
+
+    }
+}
+

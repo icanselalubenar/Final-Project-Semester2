@@ -1,0 +1,19 @@
+﻿using System;
+namespace Encapsulation
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Buah buah1 = new Buah("Pisang", 20, 14000);
+            Buah buah2 = new Buah("Apel", 50, 9000);
+            Buah buah3 = new Buah("Kiwi", 20, 7000);
+            Buah buah4 = new Buah("Durian", 20, 30000);
+            int totalBuah = Buah.totalBuah;
+
+            Console.WriteLine("Total Buah = {0}", totalBuah);
+            Console.WriteLine("=================================");
+            Console.WriteLine("Buah {0} memiliki stok sebanyak {1}, dan dijual dengan harga Rp.{2}", buah1.namaBuah, buah1.stokBuah, buah1.hargaBuah);
+        }
+    }
+}

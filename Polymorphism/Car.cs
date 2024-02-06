@@ -1,0 +1,55 @@
+﻿using System;
+namespace Polymorphism
+{
+    public class Car
+    {
+        public virtual void Data()
+        {
+            Console.WriteLine("No selected car.");
+        }
+        public virtual void Speed()
+        {
+            Console.WriteLine("Please try again");
+        }
+    }
+    public class Tesla:Car
+    {
+        public override void Data()
+        {
+            Console.WriteLine("Name: Tesla Model S");
+        }
+        public override void Speed()
+        {
+            Console.WriteLine("Top Speed: 322 Km/H");
+            Console.WriteLine("Power: 762 hp");
+            Console.WriteLine("Torque: 1.087 Nm");
+        }
+    }
+    public class Mazda:Car
+    {
+        public override void Data()
+        {
+            Console.WriteLine("Name: Mazda RX 8");
+        }
+        public override void Speed()
+        {
+            Console.WriteLine("Top Speed: 270 Km/H");
+            Console.WriteLine("Power: 232 hp");
+            Console.WriteLine("Torque: 215 Nm");
+        }
+    }
+    public class BM : Car
+    {
+        public override void Data()
+        {
+            Console.WriteLine("Name: BMW i8");
+        }
+        public override void Speed()
+        {
+            Console.WriteLine("Top Speed: 250 Km/H");
+            Console.WriteLine("Power: 228 hp");
+            Console.WriteLine("Torque: 320 Nm");
+        }
+    }
+}
+
